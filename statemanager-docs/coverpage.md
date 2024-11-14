@@ -6,5 +6,5 @@
 
 - 稳定可靠  /  解决逻辑难题  /  快速部署
 
-[GitHub](https://github.com/pi3b/StateManager)
+[GitHub](https://gitee.com/pi3b/statemanager.git)
 [文档](#StateManager介绍)
